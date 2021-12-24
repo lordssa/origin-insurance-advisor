@@ -3,6 +3,7 @@
 API Rest Origin
 
 Java Spring Boot using Hexagon Architecture, Strategy and Template Method Pattern
+
 The solution was built to be decoupled, testable and easy to maintain :)
 
 ### Prerequisites
